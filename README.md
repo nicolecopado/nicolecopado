@@ -8,6 +8,8 @@
 
 I like learning and creating new things. I like breaking things more, though.
 
+</br>
+
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/nicole-copado-0b065822b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nicole Copado | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/jess.cops/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Nicole Copado | LinkedIn" width="21px"/></a>
@@ -25,6 +27,7 @@ I like learning and creating new things. I like breaking things more, though.
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://camo.githubusercontent.com/f78b84e80f28a945b81e338d032a0968e706e8b0db259385f3ecf14ca0bb6295/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d507974686f6e26636f6c6f723d303033423537)
 
 </br>
 
