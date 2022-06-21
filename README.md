@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-    <img width="200" height="200" src="img/banner.png" alt="my-banner">
+    <img src="img/banner.png" alt="my-banner">
 </p>
 
 <!--
