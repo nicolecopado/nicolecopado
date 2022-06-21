@@ -8,11 +8,11 @@
 
 I like learning and creating new things. I like breaking things more, though.
 
-</br>
-
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/nicole-copado-0b065822b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nicole Copado | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/jess.cops/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Nicole Copado | LinkedIn" width="21px"/></a>
+
+</br>
 
 ## 🔭 I'm currently working on
 
@@ -49,21 +49,6 @@ Contributed to the following projects:
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicolecopado)](https://github.com/nicolecopado)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicolecopado&theme=dracula)](https://github.com/nicolecopado)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecopado&layout=compact)](https://github.com/nicolecopado)
-
-<!--
-**nicolecopado/nicolecopado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecopado&layout=compact&theme=radical)](https://github.com/nicolecopado)
