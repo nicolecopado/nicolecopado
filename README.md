@@ -4,12 +4,14 @@
     <img src="img/banner.png" alt="my-banner">
 </p>
 
-<p>Contributed to [Banco de Alimentos App][1], [IBM Periheral Loans][2], [Multiagents Simulation][3]</p>
+<p>Contributed to the following projects: </p>
 <ul>
-    <li>[1] [https://github.com/RafaGomezGlez/BancoDeAlimentos]</li>
-    <li>[2] https://github.com/Razonde/ibm-users</li>
-    <li>[3] https://github.com/nicolecopado/Multiagentes</li>
+    <li><a href="https://github.com/RafaGomezGlez/BancoDeAlimentos">Banco de Alimentos App</a></li>
+    <li><a href="https://github.com/Razonde/ibm-users">IBM Periheral Loans</a></li>
+    <li><a href="https://github.com/nicolecopado/Multiagentes">Multiagents Simulation</a></li>
 </ul>
+
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn" width="21px"/></a>
 
 <!--
 **nicolecopado/nicolecopado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
