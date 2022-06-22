@@ -16,11 +16,11 @@ I like learning and creating new things. I like breaking things more, though.
 
 ## 🔭 I'm currently working on
 
-- Cisco CCNA Certification and Training
+- Cisco Job Cisco Talent Incubation Program
 
 ## 🌱 I'm currently learning
 
-- Networks
+- CCNA Certification and Training
 - Solidity
 
 ## 💼 Technical Skills
