@@ -16,12 +16,12 @@ I like learning and creating new things, but I like to break things more ;)
 
 ## 🔭 I'm currently working on
 
-- Cisco Job Cisco Talent Incubation Program
+- Cisco TAC Intern 
 
 ## 🌱 I'm currently learning
 
-- CCNA Certification and Training
-- Solidity
+- Cisco Certified DevNet Associate
+- Python and Ethical Hacking from Scratch
 
 ## 💼 Technical Skills
 
@@ -40,12 +40,10 @@ I like learning and creating new things, but I like to break things more ;)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-Contributed to the following projects:
-<ul>
-    <li><a href="https://github.com/RafaGomezGlez/BancoDeAlimentos">Banco de Alimentos App</a></li>
-    <li><a href="https://github.com/Razonde/ibm-users">IBM Periheral Loans</a></li>
-    <li><a href="https://github.com/nicolecopado/Multiagentes">Multiagents Simulation</a></li>
-</ul>
+## 📝 Certifications
+
+- CCNA ![](https://www.credly.com/badges/ccf69468-ed25-4adf-b252-8842c65035b9/public_url)
+- Ethical Hacking from Scratch ![](https://www.udemy.com/certificate/UC-a9745636-2bb3-4c14-ae60-25508ec5397c/)
 
 ## 📈 GitHub Stats 
 
