@@ -42,8 +42,8 @@ I like learning and creating new things, but I like to break things more ;)
 
 ## 📝 Certifications
 
-- <a href="https://www.linkedin.com/in/nicole-copado-0b065822b/](https://www.credly.com/badges/ccf69468-ed25-4adf-b252-8842c65035b9/public_url">CCNA</a>
-- <a href="https://www.udemy.com/certificate/UC-a9745636-2bb3-4c14-ae60-25508ec5397c/">Ethical Hacking from Scratch</a>
+- <a href="https://www.credly.com/badges/ccf69468-ed25-4adf-b252-8842c65035b9/public_url" target="_blank">CCNA</a>
+- <a href="https://www.udemy.com/certificate/UC-a9745636-2bb3-4c14-ae60-25508ec5397c/" target="_blank">Ethical Hacking from Scratch</a>
 
 ## 📈 GitHub Stats 
 
