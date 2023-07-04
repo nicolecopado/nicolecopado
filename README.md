@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I like learning and creating new things, but I like to break things more ;)
+I like learning and creating new things, but I'd rather break them
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/nicole-copado-0b065822b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nicole Copado | LinkedIn" width="21px"/></a>
