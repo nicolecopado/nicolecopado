@@ -19,7 +19,7 @@ I like learning and creating new things, but I'd rather break them
 
 ## 🌱 I'm currently learning
 
-- COMPTia SEC+
+- CompTIA SEC+
 - Python and Ethical Hacking from Scratch
 
 ## 💼 Technical Skills
