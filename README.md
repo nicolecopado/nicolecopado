@@ -19,7 +19,7 @@ I like learning and creating new things, but I'd rather break them
 
 ## 🌱 I'm currently learning
 
-- CompTIA SEC+
+- HTB Certified Penetration Testing Specialist
 - Python and Ethical Hacking from Scratch
 
 ## 💼 Technical Skills
@@ -43,6 +43,7 @@ I like learning and creating new things, but I'd rather break them
 
 - <a href="https://www.credly.com/badges/ccf69468-ed25-4adf-b252-8842c65035b9/public_url">CCNA</a>
 - <a href="https://www.udemy.com/certificate/UC-a9745636-2bb3-4c14-ae60-25508ec5397c/">Ethical Hacking from Scratch</a>
+- <a href="#">CompTIA SEC+</a>
 
 ## 📈 GitHub Stats 
 
