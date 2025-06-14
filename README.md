@@ -1,9 +1,5 @@
 <!-- ### Hi there 👋 -->
 
-<p align="center">
-    <img src="img/banner.png" alt="my-banner">
-</p>
-
 ### Hi there 👋
 
 I like learning and creating new things, but I'd rather break them
